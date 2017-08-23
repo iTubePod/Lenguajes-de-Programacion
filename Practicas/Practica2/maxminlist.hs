@@ -2,6 +2,7 @@
 	Hector Mauricio Gonzalez Coello
 	A01328258
 -}
+
 import System.Info
 
 maxminlist y  = mml y (head y) (head y) 1
