@@ -1,0 +1,1 @@
+data Lista a = Vacia | Concat a (Lista a) deriving (Show)
